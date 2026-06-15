@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Live Demo](https://img.shields.io/badge/live-demo-blue.svg)
+<!--![Live Demo](https://img.shields.io/badge/live-demo-blue.svg)-->
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
@@ -18,9 +18,9 @@ A modern, professional portfolio website built with HTML, CSS, and vanilla JavaS
 - 💡 **Interactive Elements**: Hover effects, button animations, and scroll reveal effects.
 - 🚀 **Performance Optimized**: Clean, minimal code for fast loading times.
 
-## Demo
+<!--## Demo
 
-[**View Live Demo**](https://shravanikale18.github.io/Personal-Portfolio/)
+[**View Live Demo**](https://shravanikale18.github.io/Personal-Portfolio/)-->
 
 ## Getting Started
 
@@ -61,7 +61,7 @@ Once the website is open in your browser, you can:
 
 - **HTML5**: Semantic structure.
 - **CSS3**: Styling, animations, and responsiveness.
-- **JavaScript (Vanilla)**: Scroll effects, navigation, and interactive features.
+- **JavaScript **: Scroll effects, navigation, and interactive features.
 
 ## Project Structure
 
@@ -82,9 +82,10 @@ Personal-Portfolio/
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
+<!--## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
 
 ## Contact
 
@@ -92,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: [EMAIL_ADDRESS]
 - GitHub: [@ShravaniKale18](https://github.com/ShravaniKale18)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kale-shravani)
 
 ## Acknowledgments
 
