@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: [EMAIL_ADDRESS]
 - GitHub: [@ShravaniKale18](https://github.com/ShravaniKale18)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kale-shravani)
+- LinkedIn:[@kale-shravani](https://www.linkedin.com/in/kale-shravani)
 
 ## Acknowledgments
 
